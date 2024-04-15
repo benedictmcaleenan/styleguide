@@ -1,0 +1,61 @@
+body {
+    font-family: "Noto Sans", Arial, sans-serif;
+    margin: 0 0 80px 0;
+}
+
+.section-div {
+    width: 100%;
+    border: black solid 1px;
+    margin:20px auto;
+    padding: 20px 20px 40px;
+}
+
+.palette {
+    width: 100%;
+    margin: 20px 0 0 0;
+    display: flex;
+    justify-content: space-between;
+    
+}
+
+.colour-block {
+    width: 27%;
+    padding: 20px;
+    display: inline-block;
+    text-align: center;
+}
+
+#IndigoDye {
+    background-color: rgb(9, 64, 116);
+    color: white;
+}
+
+#CambridgeBlue {
+    background-color: #8AB0AB;
+    color: white;
+}
+
+#Amber {
+    background-color: #FFBF00;
+    color: black;
+}
+
+section {
+    width: 80vw;
+    margin: auto;
+}
+
+h1 {
+    font-size: 28px;
+    font-weight: 700;
+}
+
+h2 {
+    font-size: 22px;
+    font-weight: 700;
+    margin: 0;
+}
+
+p {
+
+}
